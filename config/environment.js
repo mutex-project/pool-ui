@@ -15,7 +15,7 @@ module.exports = function(environment) {
 
     APP: {
       // API host and port
-      ApiUrl: '//pool.mutexcurrency.io:8080/',
+      ApiUrl: '//52.206.18.184:8080/',
       PoolName: 'Mutex Pool',
       CompanyName: 'mutex',
       // HTTP mining endpoint
@@ -23,7 +23,7 @@ module.exports = function(environment) {
       HttpPort: 8882,
 
       // Stratum mining endpoint
-      StratumHost: 'pool.mutexcurrency.io',
+      StratumHost: '52.206.18.184',
       StratumPort: 8002,
 
       // Fee and payout details
@@ -43,7 +43,7 @@ module.exports = function(environment) {
     /* Override ApiUrl just for development, while you are customizing
       frontend markup and css theme on your workstation.
     */
-    ENV.APP.ApiUrl = '//pool.mutexcurrency.io:8080/'
+    ENV.APP.ApiUrl = '//52.206.18.184:8080/'
     // ENV.APP.LOG_RESOLVER = true;
     // ENV.APP.LOG_ACTIVE_GENERATION = true;
     // ENV.APP.LOG_TRANSITIONS = true;
