@@ -148,11 +148,11 @@ errors:
   message: Usually it's just a temporal issue and mining is not affected.
 
 links:
-  blockExplorerLink: 'https://explorer.esprezzo.io'
-  blockExplorerLink_tx: 'https://explorer.esprezzo.io/transactions/'
+  blockExplorerLink: 'https://explorer.mutex.io'
+  blockExplorerLink_tx: 'https://explorer.mutex.io/transactions/'
   blockExplorerLink_uncle: ''
-  blockExplorerLink_block: 'https://explorer.esprezzo.io/blocks/'
-  blockExplorerLink_address: 'https://explorer.esprezzo.io/addresses/'
+  blockExplorerLink_block: 'https://explorer.mutex.io/blocks/'
+  blockExplorerLink_address: 'https://explorer.mutex.io/addresses/'
 
 footer:
-  copyrights: '&copy; Brought to you by <a href="" target="_blank"><i class="fa fa-discord" style="color:#0088cc"></i> Esprezzo.io</a>'
+  copyrights: '&copy; Brought to you by <a href="" target="_blank"><i class="fa fa-discord" style="color:#0088cc"></i></a>'
