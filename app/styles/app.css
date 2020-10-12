@@ -87,7 +87,7 @@ code {
 }
 
 .navbar-default {
-	background-color: rgba(0,0,0,0.2);
+  background-color: #060820;
 	border-color: transparent;
 }
 .navbar-default .navbar-brand {
@@ -221,9 +221,11 @@ h4.note {
 .bg-dark {
   /* background-image: linear-gradient(to bottom, #0b0c22 0%, #0e122f 70%); 
   background: #03001e;  */
-  background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  /* background: #7F00FF; 
+  background: -webkit-linear-gradient(to bottom, #E100FF, #7F00FF); 
+  background: linear-gradient(to botom, #E100FF, #7F00FF);  */
+  background-color: #491E5A;
+  background-image: linear-gradient(147deg, #491E5A 0%, #000000 74%);
 }
 
 .worker-class.warning.offline-1 > td{
@@ -275,7 +277,7 @@ a {
 }
 
 .table-striped>tbody>tr:nth-of-type(odd) {
-    background-color: rgba(0,0,0,0.5);
+    background-color: #060820;
 }
 .table {
     margin-bottom: 0px;
@@ -354,6 +356,7 @@ a {
 }
 
 .join_telegram{
+  padding: 15px;
   border-radius: 5px;
   font-size: x-large;
 }
