@@ -16,8 +16,8 @@ module.exports = function(environment) {
     APP: {
       // API host and port
       ApiUrl: '//52.206.18.184:8080/',
-      PoolName: 'Mutex Pool',
-      CompanyName: 'mutex',
+      PoolName: 'XMTX Mining Pool',
+      CompanyName: 'mine.mutexcurrency.io',
       // HTTP mining endpoint
       HttpHost: 'https://mine.mutexcurrency.io',
       HttpPort: 8882,

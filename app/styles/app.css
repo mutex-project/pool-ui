@@ -176,9 +176,9 @@ span.logo-3 {
 }
 
 .note-info {
-	background-color: #E8F6FC;
-	border-color: #57b5e3;
-  color: #333333;
+	background-color: rgba(0,0,0,0.1);
+	border-color: rgba(255,255,255,0.7);
+  color: rgba(255,255,255,0.9);
 }
 
 .note-danger {
